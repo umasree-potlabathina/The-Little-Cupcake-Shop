@@ -1,0 +1,34 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    min-height: 100vh;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+}
+
+th, td, caption {
+    border: none;
+    font-family: Charm;
+    border-collapse: separate;
+    padding: 0.5rem;
+    border: 1px solid rgb(240, 232, 250)r;
+    font-size: 25px;
+    font-weight: bold;
+    /* color: rgb(66, 36, 99); */
+    background-color: rgb(240, 232, 250);
+    color: rgb(162, 112, 182);
+}
+
+.cupcake {
+    height: 300px;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+
+

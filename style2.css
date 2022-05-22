@@ -1,0 +1,92 @@
+nav li a{
+    text-decoration: none;
+    color: maroon;
+}
+
+main p a {
+    text-decoration: none;
+    color: indigo;
+}
+
+nav li {
+    border: none;
+    padding: 5px 4px;
+    width: 120px;
+    transition: background-color 0.15s;
+}
+
+nav li:hover {
+    background-color: rgb(252, 223, 233);
+}
+
+nav li:active {
+    background-color: rgb(241, 230, 250);
+}
+
+figcaption {
+    color: rgb(80, 4, 4);
+}
+
+header {
+    background-color: rgb(252, 243, 246);
+    padding: 10px 15px;
+}
+
+main {
+    background-color: rgb(247, 243, 252);
+    padding: 10px 20px;
+}
+
+footer {
+    color: indigo;
+}
+
+hr {
+    border: none;
+}
+
+body {
+    background-color: rgb(255, 250, 252);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(73, 19, 60);
+}
+
+h2, details {
+    color: rgb(110, 38, 110);
+}
+
+h3, details p {
+    color: rgb(146, 124, 156);
+}
+
+article p, main dl, form, address {
+    color: rgb(113, 91, 134);
+}
+
+.open-for {
+    color: purple;
+}
+
+button {
+    padding: 8px 12px;
+    border: none;
+    background-color: rgb(219, 207, 233);
+    color: indigo;
+    margin-right: 5px;
+    font-size: 14px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(204, 118, 145, 0.795);
+    transition: background-color 0.15s;
+}
+
+button:hover {
+    background-color: rgb(177, 137, 189);
+}
+
+button:active {
+    background-color: rgb(196, 101, 132);
+}
+
