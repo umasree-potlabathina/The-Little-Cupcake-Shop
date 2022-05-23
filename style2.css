@@ -1,11 +1,13 @@
 nav li a{
     text-decoration: none;
     color: maroon;
+    cursor: pointer;
 }
 
 main p a {
     text-decoration: none;
     color: indigo;
+    cursor: pointer;
 }
 
 nav li {
@@ -80,6 +82,7 @@ button {
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(204, 118, 145, 0.795);
     transition: background-color 0.15s;
+    cursor: pointer;
 }
 
 button:hover {
