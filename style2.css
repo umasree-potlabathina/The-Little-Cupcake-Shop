@@ -93,3 +93,7 @@ button:active {
     background-color: rgb(196, 101, 132);
 }
 
+dl {
+    line-height: 1.3rem;
+}
+
